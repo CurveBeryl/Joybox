@@ -62,9 +62,9 @@ Let's get crazy:
 What about some code **in** a list? That's insane, right?
 
 1. In Ruby you can map like this:
-{% highlight ruby %}
+```ruby
         ['a', 'b'].map { |x| x.uppercase }
-{% endhighlight %}
+```
 2. In Rails, you can do a shortcut:
 
         ['a', 'b'].map(&:uppercase)
