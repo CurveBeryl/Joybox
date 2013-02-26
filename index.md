@@ -1,5 +1,5 @@
 ---
-title: Joybox
+title: Joybox 1.0
 layout: default
 ---
 
